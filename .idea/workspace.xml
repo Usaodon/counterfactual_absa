@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03171d6e-7711-4102-ad2c-4d69f8c94fce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Counterfactual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Counterfactual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen_aug_T5.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen_aug_T5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_aug.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_aug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_spc.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_spc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,5 +34,16 @@
       <updated>1693374583312</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
